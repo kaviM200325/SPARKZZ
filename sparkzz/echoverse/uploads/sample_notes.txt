@@ -1,0 +1,7 @@
+Patient Name: John Doe
+Age: 32
+Symptoms: Fever, headache, body pain, mild cough
+Medical History: No chronic illness. Non-smoker. 
+Diagnosis: Viral fever suspected.
+Prescription: Paracetamol 500mg, hydration, and rest.
+Follow-up: If symptoms persist for more than 3 days, return for further evaluation.
